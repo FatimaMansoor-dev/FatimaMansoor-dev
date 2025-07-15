@@ -10,7 +10,7 @@
 ---
 
 - 🔭 **I’m currently working on:**  
-  [AI-powered Quiz Generator with a Streak & Badge System](https://quizify-ai-gzd0asdeh5fvdhe2.canadacentral-01.azurewebsites.net/)
+  [RAG based chatbot for Computer Engineering students to help them resolve their queries](https://cisbot-eztsudy.azurewebsites.net/)
 
 - 🌱 **I’m currently learning:**  
   Building **scalable AI solutions** with Advanced TensorFlow, leveraging **LangChain** for conversational AI, and mastering **Django** for robust backend development with SQL and NoSQL databases.
@@ -25,7 +25,7 @@
   [fatima.mansoorali03@gmail.com](mailto:fatima.mansoorali03@gmail.com)
 
 - 📄 **Know about my experiences:**  
-  [View my Resume](https://drive.google.com/file/d/1tpWeFuDoB6Ya6hZl1mCtZT2HxZLasFWA/view?usp=drive_link)
+  [View my Resume](https://drive.google.com/file/d/1kIxO0g-yyBCGJcSDNHyeEECcXvqnpgzY/view?usp=sharing)
 
 ---
 
